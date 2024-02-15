@@ -3,10 +3,10 @@
 	"product": {
 		"id": "/product",
 		"price": 1200,
-		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-        "thumb": "https://agro.webart.work/template/img/welcome.png",
-        "thumbs": ["https://plus.unsplash.com/premium_photo-1683141052679-942eb9e77760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"], 
-		"name": "product"
+		"short": "Craftsmanship Unleashed:",
+		"description": "We celebrate the art of craftsmanship. Our studio is equipped with state-of-the-art sewing machines, cutting-edge tools, and a treasure trove of fabrics that inspire endless possibilities. Unleash your creativity and bring your sewing projects to life with the guidance of our experienced instructors.",
+        "thumb": "/artemvelihin/img/1.jpg",
+        "thumbs": ["/artemvelihin/img/2.jpg", "/artemvelihin/img/3.jpg"], 
+		"name": "Sewing"
 	}
 }
